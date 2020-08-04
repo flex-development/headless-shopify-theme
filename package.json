@@ -1,0 +1,24 @@
+{
+  "name": "@flex-development/headless-shopify-theme",
+  "version": "1.0.0-alpha",
+  "description": "A Shopify theme for ambitious developers.",
+  "keywords": [
+    "headless cms",
+    "shopify"
+  ],
+  "repository": "git://github.com/flex-development/headless-shopify-theme.git",
+  "bugs": {
+    "url": "https://github.com/flex-development/headless-shopify-theme/issues",
+    "email": "support@flexdevelopment.llc"
+  },
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Lexus Drumgold",
+    "email": "lex@flexdevelopment.llc",
+    "url": "https://github.com/lexusdrumgold"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {}
+}
